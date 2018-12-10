@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+
+
+.gamebox {
+  border: solid 2px black;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}

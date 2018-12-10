@@ -1,0 +1,17 @@
+li {
+    display: inline;
+  }
+
+.new {
+    float: right
+}
+
+.what {
+    float: left
+}
+
+nav {
+ 
+  margin: 0px;
+  padding-top: 10px;
+}
